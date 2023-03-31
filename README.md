@@ -13,17 +13,17 @@
 <p>&nbsp;</p>
 
     
-- 🌱 I’m currently learning **to swim**
+- 🌱 I’m currently learning **to swim** 🏊
 
-- 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong>
+- 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
 
-- 🤝 I’m looking for help with **AI, LLM and ML**
+- 🤝 I’m looking for help with **AI, LLM and ML** 🦾
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ialexeze)
 
 - 💬 Ask me about **Health, Fitness & Wellness**
 
-- 🤝 Interested in **Science, Business and Politics** in that order
+- 🧡 Interested in **Science, Business and Politics** in that order 😁
 
 - ⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
     
@@ -33,7 +33,7 @@
 </div>
 
 <details align="center">
-<summary>🔬 <strong>MY SKILLSET</strong></summary>
+<summary>🛠🛠 <strong>My expertise</strong></summary>
 
 <div>
   <div align="center">
@@ -83,8 +83,10 @@
       <img src="https://img.shields.io/badge/apache%20tomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="tomcat " /> 
     </a>
     <a href="https://www.sonarsource.com/products/sonarqube/downloads/lts/8-9-lts/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube" /> 
     </a>
+    </div>
+<div>
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
         alt="docker"/>
@@ -195,7 +197,7 @@
     <a  href="https://t.me/Alexosinachi" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="ialexeze"/>
     </a>
-     <a href="mailto:ialexeze@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+     <a href="mailto:ialexeze@gmail.com?subject=Feedback%20From%20Github&body=Hello Alex," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ialexeze"/>
   </a>
      <a  href="https://web.facebook.com/alex.osinachi/" target="_blank">
@@ -230,3 +232,5 @@
   <img  src="resources/img/github-contribution-grid-snake.svg"
     alt="ialexeze" />
 </div>
+
+
