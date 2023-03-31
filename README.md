@@ -154,18 +154,18 @@
 <p>&nbsp;</p>
 
  <div align="center">   
-👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
+- 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
 
-🤝 I’m looking for help with **AI, LLM and ML** 🦾
+- 🤝 I’m looking for help with **AI, LLM and ML** 🦾
 
-👨‍💻 All of my projects are available at [Github](https://github.com/iAlexeze?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/iAlexeze?tab=repositories)
 
-💬 Ask me about **Tech, Health, & Fitness**
+- 💬 Ask me about **Tech, Health, & Fitness**
 
-🧡 Interested in **Science, Business and Politics** in that order 😀
+- 🧡 Interested in **Science, Business and Politics** in that order 😀
 
-⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
-</>div
+- ⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
+
 <p>&nbsp;</p>
     
   </samp>
