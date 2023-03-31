@@ -1,6 +1,6 @@
 <div align="center">
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
-  <h1>Hi!<img width="30" src="./resources/img/waving.gif">My name is Alex Eze</h1>
+  <h1>Hi!<img width="30" src="./resources/img/waving.gif">My name is Alex Eze.</h1>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+!;Automation%7CSecurity%7CCollaboration.;+Let's+deploy++together!)](https://git.io/typing-svg)
 </div>
@@ -146,13 +146,12 @@
   </div>
 
 </div>
- <img align="right" width="280" height="auto" src="./resources/img/geek.gif"/>
+
+  <img align="right" width="280" height="auto" src="./resources/img/geek.gif"/>
 
 <div align="left">
   <samp>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-  
+   
 - 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
 
 - 🤝 I’m looking for help with **AI, LLM and ML** 🦾
