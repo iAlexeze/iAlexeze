@@ -152,8 +152,7 @@
   <samp>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
- <div align="center">   
+  
 - 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
 
 - 🤝 I’m looking for help with **AI, LLM and ML** 🦾
