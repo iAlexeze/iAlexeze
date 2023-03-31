@@ -214,7 +214,7 @@
 </div>
 <p>&nbsp;</p>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/ialexeze" target="_blank">
+  <a href="https://web.chippercash.com/m/ialex" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
          style="height: 58px !important;width: 210px !important;" >
   </a>
