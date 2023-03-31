@@ -31,7 +31,7 @@
 </div>
 
 <details align="center">
-<summary>🛠<strong>My expertise</strong>🛠</summary>
+<summary>🛠<strong>My Expertise</strong>🛠</summary>
 
 <div>
   <div align="center">
@@ -59,20 +59,7 @@
     </a>
   </div>
 
-  <div align="center">
-    <h3>Frontend</h3>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-        alt="html5"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-        alt="css3"/>
-    </a>
-    
-  </div>
-
-  <div align="center">
+<div align="center">
     <h3>Backend</h3>
 <a href="https://maven.apache.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/apache%20maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="maven"/> 
@@ -98,18 +85,7 @@
     </a>
   </div>
 
-  <div align="center">
-    <h3>Database</h3>
-    <a href="https://www.mongodb.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mongodb"/> 
-    </a>
-    <a href="https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#" target="_blank">
-      <img  src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=AmazonRDS&logoColor=white" alt="AWS RDS"/> 
-    </a>
-  </div>
-
-  <div align="center">
+<div align="center">
 <h3>Cloud Service</h3>
     <a href="https://aws.amazon.com/" target="_blank">
       <img  src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/> 
@@ -120,20 +96,17 @@
      <a href="https://s3.console.aws.amazon.com/s3/home?region=us-east-1#" target="_blank">
       <img  src="https://img.shields.io/badge/Amazon%20s3-569A31.svg?style=for-the-badge&logo=AmazonS3&logoColor=white" alt="AWS S3"/> 
     </a>
-<div>
-    <a href="https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home:" target="_blank">
+   <a href="https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Home:" target="_blank">
       <img  src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=AmazonEC2&logoColor=white" alt="AWS EC2"/> 
     </a>
-    <a href=" https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#" target="_blank">
+<div>
+   <a href=" https://us-east-1.console.aws.amazon.com/cloudwatch/home?region=us-east-1#" target="_blank">
       <img  src="https://img.shields.io/badge/Amazon%20CLOUDWATCH-FF4F8B.svg?style=for-the-badge&logo=AmazonCLOUDWATCH&logoColor=white" alt="AWS EC2"/> 
     </a>
   </div>
 
-
-  </div>
-
   <div align="center">
-    <h3>Source Control & CI/CD</h3>
+    <h3>Version Control System & CI/CD</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
         alt="git"/>
@@ -165,9 +138,38 @@
     <a href="https://code.visualstudio.com/" target="_blank">
       <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
     </a>
-  
-                                                                                                                    
+                                                                                                                      
   </div>
+
+  <div align="center">
+    <h3>Frontend</h3>
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+        alt="html5"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+        alt="css3"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
+        alt="js"/> 
+    </a>
+    
+  </div>
+
+  
+  <div align="center">
+    <h3>Database</h3>
+    <a href="https://www.mongodb.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+        alt="mongodb"/> 
+    </a>
+    <a href="https://us-east-1.console.aws.amazon.com/rds/home?region=us-east-1#" target="_blank">
+      <img  src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=AmazonRDS&logoColor=white" alt="AWS RDS"/> 
+    </a>
+  </div>
+
 </div>
 </details>
 
