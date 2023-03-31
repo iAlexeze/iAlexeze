@@ -146,7 +146,7 @@
   </div>
 
 </div>
- <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+ <img align="right" width="280" height="auto" src="./resources/img/geek.gif"/>
 
 <div align="left">
   <samp>
