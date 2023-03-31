@@ -10,7 +10,7 @@
 <div>
   <div align="center">
     <h1>Skills | Knowlege Base</h1>
-    <img width="350" height="auto" src="./resources/img/coding-dawn.gif"/>
+    <img width="200" height="auto" src="./resources/img/coding-dawn.gif"/>
   </div>
 
   <div align="center">
@@ -82,14 +82,14 @@
 
   <div align="center">
     <h3>Version Control System & CI/CD</h3>
-    <a href="https://git-scm.com/" target="_blank">
+      <a href="https://github.com/iAlexeze?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+   <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
         alt="git"/>
     </a>
-    <a href="https://github.com/iAlexeze" target="_blank">
-      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    </a>
-      <a href="https://www.jenkins.io" target="_blank"> 
+     <a href="https://www.jenkins.io" target="_blank"> 
       <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
     </a>
     <a href="https://www.ansible.com/" target="_blank"> 
