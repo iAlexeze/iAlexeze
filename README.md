@@ -2,7 +2,7 @@
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi!<img width="30" src="./resources/img/waving.gif">My name is Alex Eze</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+👨‍💻;Automation%7CSecurity%7CCollaboration.;+Let's+deploy+some+awesome+codes+together!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+!;Automation%7CSecurity%7CCollaboration.;+Let's+deploy++together!)](https://git.io/typing-svg)
 </div>
  
  <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
@@ -13,20 +13,18 @@
 <p>&nbsp;</p>
 
     
-- 🌱 I’m currently learning **to swim** 🏊
-
 - 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
 
 - 🤝 I’m looking for help with **AI, LLM and ML** 🦾
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ialexeze)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/iAlexeze?tab=repositories)
 
-- 💬 Ask me about **Health, Fitness & Wellness**
+- 💬 Ask me about **Tech, Health, & Fitness**
 
 - 🧡 Interested in **Science, Business and Politics** in that order 😁
 
 - ⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
-    
+
 <p>&nbsp;</p>
     
   </samp>
