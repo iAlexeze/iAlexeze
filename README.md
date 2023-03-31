@@ -2,7 +2,7 @@
   <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi!<img width="30" src="./resources/img/waving.gif">My name is Alex Eze</h1>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+!;Automation%7CSecurity%7CCollaboration.;+Let's+deploy++together!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+👨‍💻;Automation%7CSecurity%7CCollaboration.;+Let's+deploy+some+awesome+codes+together!)](https://git.io/typing-svg)
 </div>
  
  <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
@@ -33,7 +33,7 @@
 </div>
 
 <details align="center">
-<summary>🛠🛠 <strong>My expertise</strong></summary>
+<summary>🛠<strong>My expertise</strong>🛠</summary>
 
 <div>
   <div align="center">
