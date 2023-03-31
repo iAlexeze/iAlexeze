@@ -146,8 +146,9 @@
   </div>
 
 </div>
-
-  <img align="right" width="280" height="auto" src="./resources/img/geek.gif"/>
+  <p>&nbsp;</p>
+  
+  <img align="right" width="250" height="auto" src="./resources/img/geek.gif"/>
 
 <div align="left">
   <samp>
