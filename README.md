@@ -5,37 +5,11 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+consistent++DevOps+engineer+!;Automation%7CSecurity%7CCollaboration.;+Let's+deploy++together!)](https://git.io/typing-svg)
 </div>
  
- <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
-
-<div align="left">
-  <samp>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-    
-- 👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
-
-- 🤝 I’m looking for help with **AI, LLM and ML** 🦾
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/iAlexeze?tab=repositories)
-
-- 💬 Ask me about **Tech, Health, & Fitness**
-
-- 🧡 Interested in **Science, Business and Politics** in that order 😁
-
-- ⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
-
-<p>&nbsp;</p>
-    
-  </samp>
-</div>
-
-<details align="center">
-<summary>🛠<strong>My Expertise</strong>🛠</summary>
+ <!-- <details align="center"> -->
 
 <div>
   <div align="center">
-    <h1>Knowledge Base</h1>
+    <h1>Skills | Knowlege Base</h1>
     <img width="350" height="auto" src="./resources/img/coding-dawn.gif"/>
   </div>
 
@@ -72,6 +46,7 @@
     </a>
     </div>
 <div>
+<div align="center">
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
         alt="docker"/>
@@ -171,10 +146,36 @@
   </div>
 
 </div>
+ <img align="right" width="380" height="auto" src="./resources/img/geek.gif"/>
+
+<div align="left">
+  <samp>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+ <div align="center">   
+👯 Looking out to collaborate on <strong>Cloud and end-to-end Automation Infrastructure</strong> ☁
+
+🤝 I’m looking for help with **AI, LLM and ML** 🦾
+
+👨‍💻 All of my projects are available at [Github](https://github.com/iAlexeze?tab=repositories)
+
+💬 Ask me about **Tech, Health, & Fitness**
+
+🧡 Interested in **Science, Business and Politics** in that order 😀
+
+⚡ Daily fact: **You don't get a SECOND CHANCE to make a FIRST IMPRESSION**
+</>div
+<p>&nbsp;</p>
+    
+  </samp>
+</div>
+
+
 </details>
 
 <div align="center">
-  <h3>Connect with me</h3>
+  <h3>Let's Connect😀</h3>
   <div>
      <a  href="https://www.linkedin.com/in/alex-eze-pharmd-99777117a" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
@@ -193,7 +194,7 @@
                                                                                                                             
   </div>
   <div>
-    <h3>Reach me</h3>
+    <h3>Message Me📩</h3>
     <a  href="https://t.me/Alexosinachi" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="ialexeze"/>
     </a>
