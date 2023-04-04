@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="auto" src="./resources/img/materialHacker.png"/>
+  <img width="600" height="auto" src="./resources/img/materialHacker.png"/>
   <h1>Hi!<img width="30" src="./resources/img/waving.gif">My name is Alex Eze.</h1>
   
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+CONSISTENT+DevOps+Engineer!+;Automation%7CSecurity%7CCollaboration;Let's+Deploy+together." alt="Typing SVG" /></a>
