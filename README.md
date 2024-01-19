@@ -179,7 +179,7 @@
 <div align="center">
   <h3>Let's Connect😀</h3>
   <div>
-     <a  href="https://www.linkedin.com/in/alex-eze-pharmd-99777117a" target="_blank">
+     <a  href="https://www.linkedin.com/in/alexeze" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
     </a>
     <a  href="https://dev.to/ialexeze" target="_blank">
